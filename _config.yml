@@ -21,9 +21,9 @@
 title: NF4L
 email: nf4l@arrl.net
 description: >-# this means to ignore newlines until "baseurl:"
-  Nathan, NF4L, was first licensed as a Technician 
- as KI4YHI, upgraded to General in 2012 and changed his callsign 
- to W4GOP, then topped out as an Extra in 2020 and became NF4L in 2024.
+  Nathan, NF4L, was first licensed as a Technician in 2007 as KI4YHI, 
+  upgraded to General in 2012 and changed his callsign to W4GOP, then 
+  topped out as an Extra in 2020 and became NF4L in 2024.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: nf4l.net
 url: "http://www.nf4l.net" # the base hostname & protocol for your site, e.g. http://example.com
