@@ -20,9 +20,10 @@
 
 title: NF4L
 email: nf4l@arrl.net
-description: >- Nathan, NF4L, was first licensed as a Technician 
-as KI4YHI, upgraded to General in 2012 and changed his callsign 
-to W4GOP, then topped out as an Extra in 2020 and became NF4L in 2024.
+description: >-# this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: nf4l.net
 url: "http://www.nf4l.net" # the base hostname & protocol for your site, e.g. http://example.com
