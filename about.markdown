@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![enter image description here](https://nf4l.net/images/IMG_1577.jpeg)
+![NF4L](https://nf4l.net/images/IMG_1577.jpeg)
 
 ## Background
 Greetings, NF4L here. My name is Nathan, and I live in Chamblee with my wife Lauren, daughter Eva, and son Lucas. I've been a ham for almost 20 years now. I started out as KI4YHI in 2007 when I earned my Technician class license while in college. I upgraded to General in 2012 and changed my callsign to W4GOP.
@@ -44,3 +44,5 @@ Gwinnett Amateur Radio Society
 Alford Memorial Amateur Radio Club
 
 OMISS Member: #14799
+
+[![NF4L - Ham Shack](https://www.nf4l.net/images/IMG_2477.jpeg](https://www.nf4l.net/images/IMG_2477-big.jpeg)
