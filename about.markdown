@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
-
 ## Background
 Greetings, NF4L here. My name is Nathan, and I live in Chamblee with my wife Lauren, daughter Eva, and son Lucas. I've been a ham for almost 20 years now. I started out as KI4YHI in 2007 when I earned my Technician class license while in college. I upgraded to General in 2012 and changed my callsign to W4GOP.
 
