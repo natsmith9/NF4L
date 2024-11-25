@@ -18,6 +18,7 @@ I think I have a pretty diverse amount of interests. I like to talk around on th
 I've tended to collect things over the years--used gear, new gear, homemade gear, etc.
 
 HF Radio: Yaesu FT-450D
+
 VHF/UHF Radios:
  - Yaesu FT-7800R (My first radio)
  - Yaesu FT-2800M
@@ -27,10 +28,17 @@ VHF/UHF Radios:
 ## Clubs
 
 Life Member, American Radio Relay League
+
 DeKalb Amateur Radio Emergency Services
+
 Tri-States Amateur Radio Club
+
 Georgia Tech Amateur Radio Club
+
 Atlanta Radio Club
+
 Gwinnett Amateur Radio Society
+
 Alford Memorial Amateur Radio Club
+
 OMISS Member: #14799
