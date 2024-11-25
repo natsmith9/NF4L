@@ -45,4 +45,4 @@ Alford Memorial Amateur Radio Club
 
 OMISS Member: #14799
 
-[![NF4L - Ham Shack](https://www.nf4l.net/images/IMG_2477.jpeg](https://www.nf4l.net/images/IMG_2477-big.jpeg)
+[![NF4L - Ham Shack](https://www.nf4l.net/images/IMG_2477.jpeg)](https://www.nf4l.net/images/IMG_2477-big.jpeg)
