@@ -32,7 +32,8 @@ github_username:  natsmith9
 logo: images/logo.png
 
 # Build settings
-theme: minimal
+# theme: minima
+remote-theme: pages-themes/minimal
 plugins:
   - jekyll-feed
 
