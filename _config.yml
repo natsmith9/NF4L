@@ -33,7 +33,8 @@ logo: images/logo.png
 
 # Build settings
 # theme: minima
-remote-theme: pages-themes/minimal
+# remote-theme: pages-themes/minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
