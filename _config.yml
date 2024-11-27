@@ -29,9 +29,10 @@ domain: nf4l.net
 url: "http://www.nf4l.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Nathan_A_Smith
 github_username:  natsmith9
+logo: images/logo.png
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
