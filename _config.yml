@@ -42,6 +42,7 @@ skin: dark
 #theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+  - jekyll/mastodon_webfinger
 
 # Exclude from processing.
 # The following items will not be processed, by default.
