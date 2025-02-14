@@ -1,0 +1,24 @@
+{
+    "subject": "acct:nathan@nf4l.net",
+    "aliases": [
+        "https://nf4l.net/@nathan",
+        "https://nf4l.net/users/@nathan",
+        "nathan@nf4l.net"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://nf4l.net/@nathan"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://nf4l.net/users/nathan"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://nf4l.net/authorize_interaction?uri={uri}"
+        }
+    ]
+}
